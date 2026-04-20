@@ -1,0 +1,10 @@
+.weather-box{
+width:250px;
+padding:20px;
+border-radius:15px;
+background:#1e293b;
+color:white;
+font-family:Arial;
+z-index:999;
+box-shadow:0 10px 25px rgba(0,0,0,0.25);
+}
